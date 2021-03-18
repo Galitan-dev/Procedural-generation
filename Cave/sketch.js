@@ -1,6 +1,6 @@
-const S = 15;
-let C = 50;
-let R = 50;
+const S = 30;
+let C = 40;
+let R = 25;
 
 const shapes = [
 	null,
